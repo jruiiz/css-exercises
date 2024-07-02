@@ -7,3 +7,8 @@ blk-btn {
 ylw-btn {
     background-color: yellow;
 }
+
+blk-btn, ylw-btn {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
