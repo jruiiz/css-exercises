@@ -1,14 +1,14 @@
-blk-btn {
+.blk-btn {
     background-color: black;
     color: white;
     font-weight: bold;
 }
 
-ylw-btn {
+.ylw-btn {
     background-color: yellow;
 }
 
-blk-btn, ylw-btn {
+.blk-btn, ylw-btn {
     font-size: 28px;
     font-family: "Helvetica", "Times New Roman", "sans-serif";
 }
