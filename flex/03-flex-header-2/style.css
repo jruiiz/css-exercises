@@ -51,15 +51,18 @@ ul {
 .left-header, .right-header { 
   display: flex;
   align-items: center;
-  padding: 10px 10px;
+  padding: 8px;
+  gap: 16px;
 }
 
 .links {
   display: flex;
-  gap: 20px;
+  padding: 0;
+  margin: 0;
+  gap: 16px;
 }
 
-.right-header {
-  margin-left: auto;
-  gap: 20px;
+.header {
+  display: flex;
+  justify-content: space-between;
 }
